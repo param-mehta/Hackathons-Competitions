@@ -8,5 +8,5 @@ Here is a brief overview of the competitions I have participated in:
 | Competition | Task | Platform |
 | --- | --- | --- |
 | Health Insurance lead prediction | Classification | Analytics Vidhya|
-| Predicting churn rate | Regression | Regression | Hacker Earth |
+| Predicting churn rate | Regression | Hacker Earth |
 | Predicting Shipping Cost | Rrgression | Hacker Earth |
